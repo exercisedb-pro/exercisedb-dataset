@@ -2,9 +2,9 @@
 
 **1,500+ structured exercises • GIF animations only • Developer-ready JSON**
 
-👉 **Buy the full dataset:**  
-https://leetcodepro.gumroad.com/l/xldwfr
-
+👉 Buy the full dataset for $29:
+If you’d like to purchase it, please email me at profilesleetcode@gmail.com
+ and I’ll send you the payment details + download access.
 ---
 
 ## 📦 About ExerciseDB Pro
@@ -104,8 +104,9 @@ All animations are **GIF-based** to ensure consistent playback across platforms.
 
 ## 💳 Get Full Dataset Access
 
-👉 **Purchase ExerciseDB Pro:**  
-https://leetcodepro.gumroad.com/l/xldwfr
+👉 Buy the full dataset for $29:
+If you’d like to purchase it, please email me at profilesleetcode@gmail.com
+ and I’ll send you the payment details + download access.
 
 After purchase, you receive full access to the complete dataset and documentation.
 
