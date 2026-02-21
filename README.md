@@ -108,7 +108,8 @@ After purchase, you receive **full access** to the complete dataset and document
 
 ## 🔑 License & Usage
 
-This repository demonstrates the **dataset structure and sample data only**.  
-Full access to the complete dataset is provided after purchase.
+This dataset is provided under a commercial license.
+Purchase grants you the right to use it in personal and commercial projects.
+Redistribution, resale, or public sharing of the dataset is not permitted.
 
 > ⚠️ **Redistribution or resale of the dataset is not permitted.**
