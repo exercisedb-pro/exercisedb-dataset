@@ -2,9 +2,8 @@
 
 **1,500+ structured exercises • GIF animations only • Developer-ready JSON**
 
-👉 Buy the full dataset for $29:
-If you’d like to purchase it, please email me at profilesleetcode@gmail.com
- and I’ll send you the payment details + download access.
+👉 **Buy the full dataset for $29:** Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com) and I'll send you the payment details + download access.
+
 ---
 
 ## 📦 About ExerciseDB Pro
@@ -14,21 +13,18 @@ ExerciseDB Pro is a **production-ready fitness exercise dataset** built for **fi
 It includes **1,500+ exercises**, each with **high-quality animated GIFs** showing correct movement and form.  
 Every exercise is delivered with **clean, structured JSON data** including muscles targeted, body part classification, equipment required, and step-by-step instructions.
 
-This dataset is designed for teams who want **full control**, **offline access**, and **zero runtime API dependencies**.
-
 ---
 
 ## 🌟 Key Features
 
-- 1,500+ structured exercises  
-- GIF animation for every exercise 
-- Primary & secondary muscle targeting  
-- Equipment details per movement  
-- Step-by-step instructions  
-- Clean, searchable JSON format  
-- No API keys  
-- No rate limits  
-- Zero scaling cost  
+| Feature | Details |
+|---|---|
+| 🏋️ Exercises | 1,500+ structured exercises |
+| 🎞️ Animations | GIF animation for every exercise |
+| 💪 Muscle Targeting | Primary & secondary muscles |
+| 🔧 Equipment | Equipment details per movement |
+| 📋 Instructions | Step-by-step guidance |
+| 🗂️ Format | Clean, searchable JSON |
 
 ---
 
@@ -36,16 +32,18 @@ This dataset is designed for teams who want **full control**, **offline access**
 
 Each exercise includes:
 
-- `exerciseId` — unique identifier  
-- `name` — exercise name  
-- `gifUrl` — animated movement preview  
-- `bodyParts` — body part classification  
-- `targetMuscles` — primary muscles  
-- `secondaryMuscles` — supporting muscles  
-- `equipments` — required equipment  
-- `instructions` — step-by-step guidance  
+| Field | Description |
+|---|---|
+| `exerciseId` | Unique identifier |
+| `name` | Exercise name |
+| `gifUrl` | Animated movement preview |
+| `bodyParts` | Body part classification |
+| `targetMuscles` | Primary muscles worked |
+| `secondaryMuscles` | Supporting muscles |
+| `equipments` | Required equipment |
+| `instructions` | Step-by-step guidance |
 
-All animations are **GIF-based** to ensure consistent playback across platforms.
+> All animations are **GIF-based** to ensure consistent playback across platforms.
 
 ---
 
@@ -74,7 +72,11 @@ All animations are **GIF-based** to ensure consistent playback across platforms.
   ]
 }
 ```
+
+---
+
 ## 🎥 Sample Exercise Animations
+
 ![5v7KYld](https://github.com/user-attachments/assets/a1fb387d-5895-4215-8d3a-22bf81231bfe)
 ![4dUn2iv](https://github.com/user-attachments/assets/549b3716-0ed9-48de-ad92-8ddce0714105)
 
@@ -84,31 +86,21 @@ All animations are **GIF-based** to ensure consistent playback across platforms.
 
 ## 🎯 Use Cases
 
-- Production-ready **mobile fitness applications**
-- Scalable **fitness websites & web platforms**
-- Workout planning and training systems
-- Coaching and exercise guidance tools
-- AI-powered fitness and recommendation platforms
-
----
-
-## ⚡ Why Choose ExerciseDB Pro
-
-- No live API dependency  
-- No rate limiting  
-- No production failures  
-- Predictable performance  
-- Easy integration into existing systems  
+- 📱 Production-ready **mobile fitness applications**
+- 🌐 Scalable **fitness websites & web platforms**
+- 🗓️ Workout planning and training systems
+- 🧑‍🏫 Coaching and exercise guidance tools
+- 🤖 AI-powered fitness and recommendation platforms
 
 ---
 
 ## 💳 Get Full Dataset Access
 
-👉 Buy the full dataset for $29:
-If you’d like to purchase it, please email me at profilesleetcode@gmail.com
- and I’ll send you the payment details + download access.
+👉 **Buy the full dataset for $29**
 
-After purchase, you receive full access to the complete dataset and documentation.
+Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com) and I'll send you the payment details + download access.
+
+After purchase, you receive **full access** to the complete dataset and documentation.
 
 ---
 
@@ -117,4 +109,4 @@ After purchase, you receive full access to the complete dataset and documentatio
 This repository demonstrates the **dataset structure and sample data only**.  
 Full access to the complete dataset is provided after purchase.
 
-**Redistribution or resale of the dataset is not permitted.**
+> ⚠️ **Redistribution or resale of the dataset is not permitted.**
