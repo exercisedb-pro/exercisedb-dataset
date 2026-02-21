@@ -110,6 +110,5 @@ After purchase, you receive **full access** to the complete dataset and document
 
 This dataset is provided under a commercial license.
 Purchase grants you the right to use it in personal and commercial projects.
-Redistribution, resale, or public sharing of the dataset is not permitted.
 
 > ⚠️ **Redistribution or resale of the dataset is not permitted.**
