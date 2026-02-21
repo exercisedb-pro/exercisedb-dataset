@@ -2,7 +2,9 @@
 
 **1,500+ structured exercises • GIF animations only • Developer-ready JSON**
 
-👉 **Buy the full dataset for $29:** Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com) and I'll send you the payment details + download access.
+👉 **[Buy the full dataset for $29 →](https://leetcodepro.gumroad.com/l/pjwem)**
+
+> ❓ Have a question? Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)
 
 ---
 
@@ -96,11 +98,11 @@ Each exercise includes:
 
 ## 💳 Get Full Dataset Access
 
-👉 **Buy the full dataset for $29**
-
-Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com) and I'll send you the payment details + download access.
+👉 **[Buy the full dataset for $29 →](https://leetcodepro.gumroad.com/l/pjwem)**
 
 After purchase, you receive **full access** to the complete dataset and documentation.
+
+> ❓ Have any questions? Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)
 
 ---
 
