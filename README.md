@@ -108,7 +108,12 @@ After purchase, you receive **full access** to the complete dataset and document
 
 ## 🔑 License & Usage
 
-This dataset is provided under a commercial license.
-Purchase grants you the right to use it in personal and commercial projects.
+All animations and dataset content are licensed for commercial use.
+
+Purchasing this dataset grants you:
+✓ Lifetime commercial usage
+✓ Use in mobile apps
+✓ Use in SaaS platforms
+✓ Use in websites
 
 > ⚠️ **Redistribution or resale of the dataset is not permitted.**
