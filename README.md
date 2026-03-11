@@ -111,9 +111,9 @@ After purchase, you receive **full access** to the complete dataset and document
 All animations and dataset content are licensed for commercial use.
 
 Purchasing this dataset grants you:
-✓ Lifetime commercial usage
-✓ Use in mobile apps
-✓ Use in SaaS platforms
-✓ Use in websites
+✓ Lifetime commercial usage 
+✓ Use in mobile apps 
+✓ Use in SaaS platforms 
+✓ Use in websites 
 
 > ⚠️ **Redistribution or resale of the dataset is not permitted.**
