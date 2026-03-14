@@ -55,9 +55,9 @@ Each exercise includes:
 
 ```json
 {
-  "exerciseId": "8d8qJQI",
+  "exerciseId": "s3RFtoR",
   "name": "barbell reverse grip incline bench row",
-  "gifUrl": "https://static.exercisedb.dev/media/8d8qJQI.gif",
+  "gifUrl": "s3RFtoR.gif",
   "targetMuscles": ["upper back"],
   "secondaryMuscles": ["biceps", "forearms"],
   "bodyParts": ["back"],
