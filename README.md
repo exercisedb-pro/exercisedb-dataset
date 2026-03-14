@@ -55,24 +55,31 @@ Each exercise includes:
 
 ```json
 {
-  "exerciseId": "s3RFtoR",
-  "name": "barbell reverse grip incline bench row",
-  "gifUrl": "s3RFtoR.gif",
-  "targetMuscles": ["upper back"],
-  "secondaryMuscles": ["biceps", "forearms"],
-  "bodyParts": ["back"],
-  "equipments": ["barbell"],
-  "instructions": [
-    "Set up an incline bench at a 45-degree angle.",
-    "Sit on the bench facing the backrest with your chest against it.",
-    "Grab the barbell with a reverse grip (palms facing down).",
-    "Keep your back straight and core engaged.",
-    "Pull the barbell toward your upper abdomen.",
-    "Pause briefly at the top of the movement.",
-    "Lower the barbell slowly to the starting position.",
-    "Repeat for the desired number of repetitions."
-  ]
-}
+    "exerciseId": "vKilzz3",
+    "name": "dumbbell standing inner biceps curl v. 2",
+    "gifUrl": "https://static.exercisedb.dev/media/vKilzz3.gif",
+    "targetMuscles": [
+      "biceps"
+    ],
+    "bodyParts": [
+      "upper arms"
+    ],
+    "equipments": [
+      "dumbbell"
+    ],
+    "secondaryMuscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Step:1 Stand up straight with a dumbbell in each hand, palms facing your torso.",
+      "Step:2 Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward.",
+      "Step:3 While holding your upper arms stationary, curl the weights while contracting your biceps.",
+      "Step:4 Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.",
+      "Step:5 Hold the contracted position for a brief pause as you squeeze your biceps.",
+      "Step:6 Slowly begin to bring the dumbbells back to the starting position as your breathe in.",
+      "Step:7 Repeat for the recommended amount of repetitions."
+    ]
+  }
 ```
 
 ---
