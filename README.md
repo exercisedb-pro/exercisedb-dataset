@@ -57,7 +57,7 @@ Each exercise includes:
 {
     "exerciseId": "vKilzz3",
     "name": "dumbbell standing inner biceps curl v. 2",
-    "gifUrl": "https://static.exercisedb.dev/media/vKilzz3.gif",
+    "gifUrl": "vKilzz3.gif",
     "targetMuscles": [
       "biceps"
     ],
