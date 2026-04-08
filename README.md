@@ -95,7 +95,7 @@ Each exercise includes:
 ### Exercise Animation 2
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c600cd9-8033-497f-9159-196b2ac33801" width="400">
+  <img src="https://github.com/user-attachments/assets/aeb8d43e-0cef-4f78-a5bd-7d11ae505a0c" width="400">
 </p>
 
 > All exercises in the dataset include similar animated GIFs demonstrating proper form and movement.
