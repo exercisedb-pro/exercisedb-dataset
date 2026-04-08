@@ -114,7 +114,7 @@ Each exercise includes:
 
 ## 💳 Get Full Dataset Access 
 
-👉 **[Buy the full dataset](https://leetcodepro.gumroad.com/l/ynjsvz)** 🟢 Trusted by 50+ developers worldwide — join them today!
+👉 **[Buy the full dataset](https://leetcodepro.gumroad.com/l/vfyug)** 🟢 Trusted by 50+ developers worldwide — join them today!
 
 After purchase, you receive **full access** to the complete dataset and documentation.
 
