@@ -57,7 +57,7 @@ Each exercise includes:
 {
     "exerciseId": "vKilzz3",
     "name": "dumbbell standing inner biceps curl v. 2",
-    "gifUrl": "vKilzz3.gif",
+    "gifUrl": "a23.gif",
     "targetMuscles": [
       "biceps"
     ],
@@ -84,10 +84,19 @@ Each exercise includes:
 
 ---
 
-## 🎥 Sample Exercise Animations
+# Sample Exercise Animations
 
-![5v7KYld](https://github.com/user-attachments/assets/a1fb387d-5895-4215-8d3a-22bf81231bfe)
-![4dUn2iv](https://github.com/user-attachments/assets/549b3716-0ed9-48de-ad92-8ddce0714105)
+### Example Animation
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/893feb32-dbe7-430e-af93-23852205d7ae" width="500">
+</p>
+
+### Exercise Animation 2
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e568bd70-f086-405f-900b-246723c88d80" width="500">
+</p>
 
 > All exercises in the dataset include similar animated GIFs demonstrating proper form and movement.
 
