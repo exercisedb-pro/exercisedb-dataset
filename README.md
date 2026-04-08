@@ -2,7 +2,7 @@
 
 **1,500+ structured exercises • GIF animations only • Developer-ready JSON**
 
-👉 **[Buy the full dataset](https://leetcodepro.gumroad.com/l/ynjsvz)** 🟢 Trusted by 50+ developers worldwide — join them today!
+👉 **[Buy the full dataset](https://leetcodepro.gumroad.com/l/pjwem)** 🟢 Trusted by 50+ developers worldwide — join them today!
 
 > ❓ Have a question? Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)
 
