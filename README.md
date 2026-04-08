@@ -55,20 +55,11 @@ Each exercise includes:
 
 ```json
 {
-    "exerciseId": "vKilzz3",
-    "name": "dumbbell standing inner biceps curl v. 2",
+    "exerciseId": "zz3",
+    "name": "dumbbell standing inner biceps curl",
     "gifUrl": "a23.gif",
     "targetMuscles": [
       "biceps"
-    ],
-    "bodyParts": [
-      "upper arms"
-    ],
-    "equipments": [
-      "dumbbell"
-    ],
-    "secondaryMuscles": [
-      "forearms"
     ],
     "instructions": [
       "Step:1 Stand up straight with a dumbbell in each hand, palms facing your torso.",
@@ -78,6 +69,15 @@ Each exercise includes:
       "Step:5 Hold the contracted position for a brief pause as you squeeze your biceps.",
       "Step:6 Slowly begin to bring the dumbbells back to the starting position as your breathe in.",
       "Step:7 Repeat for the recommended amount of repetitions."
+    ],
+    "bodyParts": [
+      "upper arms"
+    ],
+    "equipments": [
+      "dumbbell"
+    ],
+    "secondaryMuscles": [
+      "forearms"
     ]
   }
 ```
