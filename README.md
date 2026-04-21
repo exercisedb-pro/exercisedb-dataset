@@ -66,7 +66,7 @@ Each exercise includes:
 
 ```json
 {
-    "exerciseId": "zz3",
+    "exerciseId": "a103",
     "name": "dumbbell standing inner biceps curl",
     "gifUrl": "a23.gif",
     "targetMuscles": [
