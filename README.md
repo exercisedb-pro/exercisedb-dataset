@@ -1,10 +1,6 @@
 # 🏋️ ExerciseDB Pro — Animated Exercise Dataset
 
-**1,500+ structured exercises • GIF animations only • Developer-ready JSON**
-
-👉 **[Buy the full dataset](https://leetcodepro.gumroad.com/l/vfyug)** 🟢 Trusted by 50+ developers worldwide — join them today!
-
-> ❓ Have a question? Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)
+**1,200+ structured exercises • GIF animations • Developer-ready JSON**
 
 ---
 
@@ -12,8 +8,23 @@
 
 ExerciseDB Pro is a **production-ready fitness exercise dataset** built for **fitness platforms, workout tools, and training systems**.
 
-It includes **1,500+ exercises**, each with **high-quality animated GIFs** showing correct movement and form.  
+It includes **1,200+ exercises**, each with **high-quality animated GIFs** showing correct movement and form.
 Every exercise is delivered with **clean, structured JSON data** including muscles targeted, body part classification, equipment required, and step-by-step instructions.
+
+---
+
+## 🛒 Choose Your Plan
+
+| | **Standard** | **Pro** |
+|---|---|---|
+| 🎞️ GIF Quality | 720px | 720px + 1080px |
+| 🏋️ Exercises | 1,200+ | 1,200+ |
+| 📋 JSON Data | ✓ | ✓ |
+| 💪 Muscle Data | ✓ | ✓ |
+| 📖 Instructions | ✓ | ✓ |
+| **Get Access** | **[👉 Standard Dataset](https://exercisedbpro.gumroad.com/l/hmwxd)** | **[👉 Pro Dataset](https://exercisedbpro.gumroad.com/l/lrews)** |
+
+> ✅ **One-time purchase. Lifetime access. Use the dataset however you want, forever.**
 
 ---
 
@@ -21,7 +32,7 @@ Every exercise is delivered with **clean, structured JSON data** including muscl
 
 | Feature | Details |
 |---|---|
-| 🏋️ Exercises | 1,500+ structured exercises |
+| 🏋️ Exercises | 1,200+ structured exercises |
 | 🎞️ Animations | GIF animation for every exercise |
 | 💪 Muscle Targeting | Primary & secondary muscles |
 | 🔧 Equipment | Equipment details per movement |
@@ -84,6 +95,16 @@ Each exercise includes:
 
 ---
 
+## 🎯 Use Cases
+
+- 📱 Production-ready **mobile fitness applications**
+- 🌐 Scalable **fitness websites & web platforms**
+- 🗓️ Workout planning and training systems
+- 🧑‍🏫 Coaching and exercise guidance tools
+- 🤖 AI-powered fitness and recommendation platforms
+
+---
+
 # Sample Exercise Animations
 
 ### Example Animation
@@ -102,35 +123,32 @@ Each exercise includes:
 
 ---
 
-## 🎯 Use Cases
-
-- 📱 Production-ready **mobile fitness applications**
-- 🌐 Scalable **fitness websites & web platforms**
-- 🗓️ Workout planning and training systems
-- 🧑‍🏫 Coaching and exercise guidance tools
-- 🤖 AI-powered fitness and recommendation platforms
-
----
-
-## 💳 Get Full Dataset Access 
-
-👉 **[Buy the full dataset](https://leetcodepro.gumroad.com/l/vfyug)** 🟢 Trusted by 50+ developers worldwide — join them today!
-
-After purchase, you receive **full access** to the complete dataset and documentation.
-
 > ❓ Have any questions? Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)
 
 ---
 
 ## 🔑 License & Usage
 
-All animations and dataset content are licensed for commercial use.
+All animations and dataset content are licensed for **perpetual commercial use**.
 
 Purchasing this dataset grants you:
 
-- ✓ Lifetime commercial usage  
-- ✓ Use in mobile apps  
-- ✓ Use in SaaS platforms  
+- ✓ **One-time purchase — yours for life**
+- ✓ Lifetime commercial usage rights
+- ✓ Use the dataset however you want, forever
+- ✓ Use in mobile apps
+- ✓ Use in SaaS platforms
 - ✓ Use in websites
+- ✓ Display exercise GIFs inside your app
 
-> ⚠️ **Redistribution or resale of the dataset is not permitted.**
+> ⚠️ **Redistribution or resale of the raw dataset or GIFs as a standalone library is not permitted.**
+
+---
+
+## ℹ️ Good to Know
+
+- 💳 **One-time purchase, not a subscription** — pay once and the dataset is yours indefinitely with a perpetual license.
+- 🏪 **Commercial use is fully allowed** — display the exercise GIFs inside your app or platform without any restrictions.
+- 🚫 **Reselling is not allowed** — you cannot redistribute or resell the raw dataset or GIFs as a standalone library, but using them inside your own product is completely fine.
+- 📦 **No API required** — host the files yourself or bundle them directly in your app however you like.
+- 🎞️ **Not sure which plan to pick?** Go with Standard (720px) for most use cases. Choose Pro if you need the highest quality GIFs for premium apps or larger displays — it includes both 720px and 1080px versions.
