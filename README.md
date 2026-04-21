@@ -107,16 +107,16 @@ Each exercise includes:
 
 # Sample Exercise Animations
 
-### Example Animation
+### Example Animation 1 (1080px)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/17e09efd-d0bd-4dc3-b9a9-4fc14aba5cf8" width="400">
 </p>
 
-### Exercise Animation 2
+### Exercise Animation 2 (720px)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aeb8d43e-0cef-4f78-a5bd-7d11ae505a0c" width="400">
+  <img src="https://github.com/user-attachments/assets/b99834ca-41c9-4ce7-b5ee-0ddf0a5f8df5" width="400">
 </p>
 
 > All exercises in the dataset include similar animated GIFs demonstrating proper form and movement.
