@@ -24,8 +24,10 @@ Every exercise is delivered with **clean, structured JSON data** including muscl
 | 📖 Instructions | ✓ | ✓ |
 | **Get Access** | **[👉 Standard Dataset](https://exercisedbpro.gumroad.com/l/hmwxd)** | **[👉 Pro Dataset](https://exercisedbpro.gumroad.com/l/lrews)** |
 
-> ✅ **One-time purchase. Lifetime access. Use the dataset however you want, forever.**
 
+🚨🚨 **Currently unavailable — updating dataset. Back in 1–2 days.**🚨🚨
+
+> ✅ **One-time purchase. Lifetime access. Use the dataset however you want, forever.**
 ---
 
 ## 🌟 Key Features
