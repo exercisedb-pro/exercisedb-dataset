@@ -25,21 +25,8 @@ Every exercise is delivered with **clean, structured JSON data** including muscl
 | **Get Access** | **[👉 Standard Dataset](https://exercisedbpro.gumroad.com/l/hmwxd)** | **[👉 Pro Dataset](https://exercisedbpro.gumroad.com/l/lrews)** |
 
 
-🚨🚨🚨 Dataset Access Update 🚨🚨🚨
-
-The dataset is ready, but I’m currently updating the website and making small improvements.
-
-👉 You’ll be able to download it through the website paywall in 1–2 days.
-
-👉 If you want **early access right now**, email me at **[profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)** and I’ll share the dataset directly.
-
-💰 Pricing:
-• Standard Dataset — $29
-• Pro Dataset — $49
-
-⚡ Early access via email is the fastest way to get it.
-
-Thanks for your patience 🙏
+🚨🚨 **Currently unavailable — updating dataset. Back in 1–2 days.**🚨🚨
+> ❓ Have any questions? Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)
 
 
 > ✅ **One-time purchase. Lifetime access. Use the dataset however you want, forever.**
