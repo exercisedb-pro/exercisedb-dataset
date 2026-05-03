@@ -13,25 +13,6 @@ Every exercise is delivered with **clean, structured JSON data** including muscl
 
 ---
 
-## 🛒 Choose Your Plan
-
-| | **Standard** | **Pro** |
-|---|---|---|
-| 🎞️ GIF Quality | 720px | 720px + 1080px |
-| 🏋️ Exercises | 1,200+ | 1,200+ |
-| 📋 JSON Data | ✓ | ✓ |
-| 💪 Muscle Data | ✓ | ✓ |
-| 📖 Instructions | ✓ | ✓ |
-| **Get Access** | **[👉 Standard Dataset](https://exercisedbpro.gumroad.com/l/hmwxd)** | **[👉 Pro Dataset](https://exercisedbpro.gumroad.com/l/lrews)** |
-
-
-🚨🚨 **Currently unavailable — updating dataset. Back in 1–2 days.**🚨🚨
-> ❓ Have any questions? Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)
-
-
-> ✅ **One-time purchase. Lifetime access. Use the dataset however you want, forever.**
----
-
 ## 🌟 Key Features
 
 | Feature | Details |
@@ -42,6 +23,28 @@ Every exercise is delivered with **clean, structured JSON data** including muscl
 | 🔧 Equipment | Equipment details per movement |
 | 📋 Instructions | Step-by-step guidance |
 | 🗂️ Format | Clean, searchable JSON |
+
+---
+
+## 🛒 Get Access
+
+> 🧑‍💻 **Trusted by 100+ developers** who are already building with ExerciseDB Pro.
+
+Visit **[exercisedbpro.com](https://exercisedbpro.com)** to purchase and get instant access to the dataset.
+
+| | **Standard** | **Pro** |
+|---|---|---|
+| 🎞️ GIF Quality | 720px | 720px + 1080px |
+| 🏋️ Exercises | 1,200+ | 1,200+ |
+| 📋 JSON Data | ✓ | ✓ |
+| 💪 Muscle Data | ✓ | ✓ |
+| 📖 Instructions | ✓ | ✓ |
+
+### 👉 [Buy Now at exercisedbpro.com](https://exercisedbpro.com)
+
+> ✅ **One-time purchase. Lifetime access. Use the dataset however you want, forever.**
+
+> ❓ Have any questions? Email [profilesleetcode@gmail.com](mailto:profilesleetcode@gmail.com)
 
 ---
 
