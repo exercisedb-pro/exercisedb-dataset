@@ -119,11 +119,11 @@ Every exercise includes clean structured metadata.
 |---|---|
 | `exerciseId` | Unique exercise identifier |
 | `name` | Exercise name |
-| `animationUrl` | Exercise animation |
-| `bodyPart` | Main body area |
+| `gifUrl` | Exercise animation |
+| `bodyParts` | Main body area |
 | `target` | Primary muscle |
 | `secondaryMuscles` | Supporting muscles |
-| `equipment` | Equipment used |
+| `equipments` | Equipment used |
 | `instructions` | Step-by-step guidance |
 
 ---
@@ -132,20 +132,36 @@ Every exercise includes clean structured metadata.
 
 ```json
 {
-  "exerciseId": "0001",
-  "name": "dumbbell bench press",
-  "bodyPart": "chest",
-  "target": "pectorals",
-  "equipment": "dumbbell",
-  "secondaryMuscles": [
-    "triceps",
-    "front delts"
+  "exerciseId": "b41",
+  "name": "dumbbell standing inner biceps curl",
+  "gifUrl": "a23.gif",
+  "targetMuscles": [
+    "biceps"
   ],
   "instructions": [
-    "Lie flat on a bench holding dumbbells.",
-    "Press the dumbbells upward until arms are extended.",
-    "Lower slowly to starting position.",
-    "Repeat for desired repetitions."
+    "Step:1 Stand up straight with a
+     dumbbell in each hand.",
+    "Step:2 Keep your elbows close to
+     your torso and rotate the palms.",
+    "Step:3 Curl the weights while
+     contracting your biceps.",
+    "Step:4 Continue to raise until
+     biceps are fully contracted.",
+    "Step:5 Hold the contracted
+     position for a brief pause.",
+    "Step:6 Slowly bring the dumbbells
+     back to starting position.",
+    "Step:7 Repeat for the recommended
+     amount of repetitions."
+  ],
+  "bodyParts": [
+    "upper arms"
+  ],
+  "equipments": [
+    "dumbbell"
+  ],
+  "secondaryMuscles": [
+    "forearms"
   ]
 }
 ```
