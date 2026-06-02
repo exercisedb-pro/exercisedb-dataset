@@ -1,288 +1,211 @@
-# 🏋️ ExerciseDB Pro — Developer-Ready Fitness Animation Library
-**1,200+ Exercise Animations • 1080px HD • JSON Metadata • Commercial License**
+# ExerciseDB Pro — Fitness Exercise Dataset & HD Animation Library
 
-### 🌍 [👉 Explore the Live Demo & Previews at exercisedbpro.com](https://exercisedbpro.com)
+> **1,200+ structured exercise animations with JSON metadata for developers building fitness apps, workout platforms, AI fitness tools, and coaching systems.**
 
-> Browse 1,200+ exercise animations, watch live previews, and see the full collection before you buy.
-
----
-
-## 📦 About ExerciseDB Pro
-
-ExerciseDB Pro is a production-ready fitness animation library built for:
-
-- fitness applications
-- workout platforms
-- AI fitness tools
-- coaching systems
-- SaaS fitness products
-- exercise recommendation systems
-
-The library includes 1,200+ structured exercise animations with organized JSON metadata designed specifically for developers and fitness platforms.
-
-Each exercise includes:
-
-- HD exercise animation
-- muscle targeting data
-- body-part categorization
-- equipment information
-- exercise instructions
-- structured JSON format
+🌐 **Website:** [exercisedbpro.com](https://exercisedbpro.com)  
+📩 **Contact:** profilesleetcode@gmail.com  
+📦 **Format:** JSON metadata + HD 1080px MP4 animations  
+🔑 **License:** Commercial — one-time purchase, lifetime use
 
 ---
 
-## ✨ What Makes ExerciseDB Pro Different
+## What Is ExerciseDB Pro?
 
-Unlike generic fitness datasets, ExerciseDB Pro focuses on:
+ExerciseDB Pro is a **production-ready, developer-first fitness dataset** containing:
 
-- developer-ready structure
-- organized workout collections
-- commercial-use licensing
-- app-ready exercise previews
-- clean searchable metadata
-- production-focused delivery
+- **1,200+ exercise animations** (HD 1080px MP4 format, smooth looping)
+- **Structured JSON metadata** for every exercise (10 fields per entry)
+- **Commercial license** — use in your apps, SaaS, websites, and platforms
+- **No API dependency** — download once, host anywhere, lifetime access with no recurring costs or rate limits
 
-The library is optimized for:
-
-- mobile apps
-- web apps
-- coaching dashboards
-- AI integrations
-- workout builders
-- premium fitness platforms
+It is the most comprehensive structured fitness exercise dataset available for developers — covering gym workouts, yoga, pilates, home workouts, office exercises, women workouts, face yoga, and mobility training.
 
 ---
 
-## 📚 Included Collections
+## Live Demo & Animation Previews
 
-### 🏋️ Gym Workout Collection
-
-400+ gym exercise animations covering all major muscle groups.
-
-Includes:
-
-- chest
-- back
-- shoulders
-- arms
-- legs
-- abs
-- cardio
-- compound lifts
-- isolation movements
-
-Includes multiple character styles and animation variations.
+👉 **[exercisedbpro.com](https://exercisedbpro.com)** — Browse all 1,200+ exercise animations live, explore categories, and preview animation quality before purchasing.
 
 ---
 
-### 🧘 Home Workout Collection
+## Dataset Schema
 
-700+ home fitness animations including:
+Every exercise in ExerciseDB Pro includes **10 structured fields**:
 
-- Yoga
-- Pilates
-- Wall Pilates
-- Women Workouts
-- Office Workouts
-- Face Yoga
-- Mobility & Stretching
-- No-equipment workouts
-
-Each collection uses its own optimized animation style and character design.
-
----
-
-## 🎬 HD Exercise Animations
-
-Every exercise includes:
-
-- smooth looping animation
-- clean transparent-style presentation
-- mobile-app-friendly framing
-- high-quality 1080px visuals
-
-The animations are designed specifically for:
-
-- fitness apps
-- workout guides
-- coaching systems
-- exercise previews
-- training flows
+| Field | Type | Description |
+|---|---|---|
+| `exerciseId` | `string` | Unique exercise identifier |
+| `name` | `string` | Exercise name |
+| `bodyPart` | `string` | Primary body region (chest, back, legs, etc.) |
+| `equipment` | `string` | Required equipment (dumbbell, machine, bodyweight, etc.) |
+| `target` | `string` | Primary target muscle |
+| `secondaryMuscles` | `string[]` | Supporting muscles activated |
+| `difficulty` | `string` | `beginner` / `intermediate` / `advanced` |
+| `category` | `string` | `strength` / `stretching` / `cardio` / etc. |
+| `description` | `string[]` | Rich text description of the exercise |
+| `instructions` | `string[]` | Step-by-step execution instructions |
 
 ---
 
-## 🧠 Structured JSON Metadata
-
-Every exercise includes clean structured metadata.
-
-| Field | Description |
-|---|---|
-| `exerciseId` | Unique exercise identifier |
-| `name` | Exercise name |
-| `gifUrl` | Exercise animation |
-| `bodyParts` | Main body area |
-| `target` | Primary muscle |
-| `secondaryMuscles` | Supporting muscles |
-| `equipments` | Equipment used |
-| `instructions` | Step-by-step guidance |
-
----
-
-## 🧾 Example Exercise Object
+## Example Exercise Object
 
 ```json
 {
-  "exerciseId": "b41",
-  "name": "dumbbell standing inner biceps curl",
-  "gifUrl": "a23.gif",
-  "targetMuscles": [
-    "biceps"
+  "exerciseId": "0051",
+  "name": "pec deck machine fly",
+  "bodyPart": "chest",
+  "equipment": "machine",
+  "target": "chest",
+  "secondaryMuscles": ["shoulders"],
+  "difficulty": "beginner",
+  "category": "strength",
+  "description": [
+    "The pec deck machine fly is a machine exercise targeting the chest. The guided range of motion isolates the pectoral muscles and maintains constant tension throughout, making it effective for chest development with reduced risk of shoulder strain."
   ],
   "instructions": [
-    "Step:1 Stand up straight with a
-     dumbbell in each hand.",
-    "Step:2 Keep your elbows close to
-     your torso and rotate the palms.",
-    "Step:3 Curl the weights while
-     contracting your biceps.",
-    "Step:4 Continue to raise until
-     biceps are fully contracted.",
-    "Step:5 Hold the contracted
-     position for a brief pause.",
-    "Step:6 Slowly bring the dumbbells
-     back to starting position.",
-    "Step:7 Repeat for the recommended
-     amount of repetitions."
-  ],
-  "bodyParts": [
-    "upper arms"
-  ],
-  "equipments": [
-    "dumbbell"
-  ],
-  "secondaryMuscles": [
-    "forearms"
+    "Sit on the pec deck machine and adjust the seat so your arms are parallel to the floor.",
+    "Place your forearms against the arm pads or grip the handles with elbows bent at 90 degrees.",
+    "Press the arm pads together in front of your chest by contracting your pectoral muscles.",
+    "Pause at the peak of the contraction and squeeze your chest.",
+    "Slowly allow the arm pads to return to the starting position and repeat for the desired number of repetitions."
   ]
 }
 ```
 
 ---
 
-## 🚀 Use Cases
+## Included Collections
 
-Perfect for:
+### 🏋️ Gym Workout Collection — 400+ Exercises
 
-- 📱 Fitness mobile applications
-- 🌐 Fitness SaaS platforms
-- 🤖 AI-powered fitness systems
-- 👨‍🏫 Coaching tools
-- 📅 Workout planning apps
-- 🏋️ Exercise recommendation engines
-- 📺 Smart TV fitness apps
-- 💪 Gym software platforms
+Covers all major muscle groups with multiple animation character styles:
 
----
-
-## 💰 Pricing
-
-### Gym Dataset — $29
-
-Includes:
-
-- 400+ Gym Exercise Animations
-- Covers all major gym muscle groups
-- High-quality 1080px animations
-- JSON metadata
-- Commercial license
-- One-time purchase
+- Chest (bench press, flys, push-ups, cable crossovers)
+- Back (rows, pull-ups, lat pulldowns, deadlifts)
+- Shoulders (press, lateral raises, face pulls)
+- Arms (biceps curls, triceps extensions, hammer curls)
+- Legs (squats, lunges, leg press, hamstring curls)
+- Abs (crunches, planks, leg raises, cable crunches)
+- Cardio (jumping jacks, mountain climbers, burpees)
+- Compound lifts and isolation movements
+- Beginner through advanced difficulty levels
 
 ---
 
-### Complete Collection — $49
+### 🧘 Home & Lifestyle Collection — 800+ Exercises
 
-Includes:
+Specialized animation styles for every training environment:
 
-- 1,200+ Exercise Animations
-- Gym + Home Workout Collections
-- Yoga + Pilates + Wall Pilates
-- Office + Women + Face Yoga Workouts
-- High-quality 1080px animations
-- JSON metadata
-- Commercial license
-- One-time purchase
-
----
-
-## 🖥️ Preview The Animations
-
-> 🔗 **[Visit exercisedbpro.com to explore all animations live](https://exercisedbpro.com)**
-
-The website includes:
-
-- live exercise showcases
-- mobile emulator previews
-- category-based previews
-- multiple animation style examples
+| Category | Description |
+|---|---|
+| **Home Workouts** | No-equipment bodyweight exercises |
+| **Yoga** | Traditional yoga poses and flows |
+| **Pilates** | Core, full body, lower body, upper body, warm-up, wall pilates |
+| **Office Workouts** | Chair, desk, back, and support exercises for workplace use |
+| **Women Workouts** | Arms, legs, hips, cardio, balance, stretch, wall, chair variations |
+| **Face Yoga** | Facial muscle exercises and neck routines |
+| **Mobility & Stretching** | Flexibility and recovery movements |
 
 ---
 
-## 🔑 License & Commercial Usage
+## Animation Specifications
 
-Your purchase includes:
-
-- lifetime commercial usage
-- use inside apps and SaaS products
-- use inside websites and coaching tools
-- one-time purchase
-- perpetual access
-
-**Allowed:**
-
-- use inside your own applications
-- display animations inside your platform
-- commercial app usage
-- SaaS integrations
-
-**Not allowed:**
-
-- reselling the raw dataset
-- redistributing the ZIP files
-- selling the animation library standalone
+- **Resolution:** 1080px HD
+- **Format:** MP4 (smooth looping, transparent-style background)
+- **Framing:** Mobile-app-friendly composition
+- **Character styles:** Multiple — gym/strength character, lifestyle/home character, women-specific character
+- **Use case optimized:** Fitness apps, coaching dashboards, workout guides, AI integrations
 
 ---
 
-## 📦 Delivery Format
+## Use Cases
 
-Download includes:
+ExerciseDB Pro is used to build:
 
-- organized ZIP packages
-- exercise animations
-- JSON metadata
-- categorized structure
-- developer-ready formatting
-
-No API required. Host the files however you want.
-
----
-
-## 📩 Support
-
-For questions or support: support@exercisedbpro.com
+- 📱 **Fitness mobile apps** (iOS / Android) — exercise libraries with animation previews
+- 🌐 **Fitness SaaS platforms** — subscription workout builders
+- 🤖 **AI-powered fitness systems** — exercise recommendation engines with structured metadata
+- 👨‍🏫 **Coaching tools** — client-facing exercise demonstration
+- 📅 **Workout planning apps** — drag-and-drop exercise scheduling with visuals
+- 🏋️ **Gym software platforms** — member-facing exercise guides
+- 📺 **Smart TV fitness apps** — HD animation display
+- 💪 **Exercise recommendation engines** — muscle targeting and equipment filtering
 
 ---
 
-## ⚡ Built For Developers
+## Delivery Format
 
-ExerciseDB Pro is designed to help developers launch fitness products faster with production-ready exercise animations and structured workout data.
+After purchase at [exercisedbpro.com](https://exercisedbpro.com):
+
+- Organized ZIP package (instant download)
+- All exercise animations (MP4 files)
+- JSON metadata file with all exercises
+- Categorized folder structure
+- Developer-ready formatting — no API required, host files anywhere
 
 ---
 
-<div align="center">
+## Filter & Search Capabilities in the Dataset
 
-### 🚀 Ready to build your fitness product?
+The JSON metadata supports filtering and searching by:
 
-**[👉 Explore ExerciseDB Pro at exercisedbpro.com](https://exercisedbpro.com)**
+- **Body part** — chest, back, shoulders, arms, legs, abs, cardio, neck
+- **Target muscle** — pectorals, biceps, triceps, glutes, hamstrings, quadriceps, deltoids, lats, and more
+- **Secondary muscles** — full supporting muscle chain
+- **Equipment** — dumbbell, barbell, machine, cable, bodyweight, resistance band, kettlebell, and more
+- **Difficulty** — beginner, intermediate, advanced
+- **Category** — strength, stretching, cardio, yoga, pilates, mobility
 
-Browse animations • Check pricing • Get started today
+---
 
-</div>
+## License
+
+Your purchase includes a **lifetime commercial license**:
+
+✅ **Allowed:**
+- Use animations and metadata inside your own apps and platforms
+- Display animations on your websites and SaaS products
+- Integrate into AI fitness systems and coaching tools
+- Use in social media content marketing for your own product
+- Commercial app deployment (iOS, Android, web)
+
+❌ **Not allowed:**
+- Reselling or redistributing the raw dataset or ZIP files
+- Uploading to stock asset marketplaces
+- Selling the animation library as a standalone product
+
+---
+
+---
+
+## Frequently Asked Questions
+
+**Q: Do I need an API to use ExerciseDB Pro?**  
+No. It's a one-time download. You host the files yourself — no ongoing API dependency, no rate limits, no recurring costs.
+
+**Q: What file formats are included?**  
+JSON metadata files and HD MP4 animations. No special software required.
+
+**Q: Can I use this in a commercial product?**  
+Yes. Your purchase includes a lifetime commercial license for use inside your own apps, websites, and platforms.
+
+**Q: Is this suitable for AI/ML fitness applications?**  
+Yes. The structured JSON schema with muscle targeting, difficulty, category, and instruction fields is designed to be LLM and ML-pipeline friendly.
+
+**Q: How many exercises are in the dataset?**  
+1,200+ exercises in the Complete Collection. 400+ gym exercises in the Gym Dataset.
+
+---
+
+## About
+
+ExerciseDB Pro is built for developers who want to ship fitness products faster without spending months sourcing, animating, and structuring exercise content.
+
+🌐 **[exercisedbpro.com](https://exercisedbpro.com)**  
+📩 **profilesleetcode@gmail.com**
+
+---
+
+## Keywords
+
+fitness dataset, exercise dataset, workout dataset, exercise animations, fitness API alternative, gym exercise database, yoga dataset, pilates dataset, exercise JSON, muscle targeting data, fitness app dataset, workout builder dataset, AI fitness dataset, exercise metadata, HD exercise MP4, bodyweight exercise dataset, dumbbell exercise dataset, exercise recommendation dataset, fitness machine learning dataset, structured fitness data, exercise library developer, home workout dataset, office workout dataset, women workout dataset, face yoga dataset, mobility exercise dataset, fitness SaaS dataset, coaching app exercise data, exercise instructions dataset, muscle group exercise data
