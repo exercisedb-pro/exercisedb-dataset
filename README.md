@@ -205,7 +205,3 @@ ExerciseDB Pro is built for developers who want to ship fitness products faster 
 📩 **profilesleetcode@gmail.com**
 
 ---
-
-## Keywords
-
-fitness dataset, exercise dataset, workout dataset, exercise animations, fitness API alternative, gym exercise database, yoga dataset, pilates dataset, exercise JSON, muscle targeting data, fitness app dataset, workout builder dataset, AI fitness dataset, exercise metadata, HD exercise MP4, bodyweight exercise dataset, dumbbell exercise dataset, exercise recommendation dataset, fitness machine learning dataset, structured fitness data, exercise library developer, home workout dataset, office workout dataset, women workout dataset, face yoga dataset, mobility exercise dataset, fitness SaaS dataset, coaching app exercise data, exercise instructions dataset, muscle group exercise data
