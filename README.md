@@ -1,6 +1,6 @@
 # ExerciseDB Pro — Fitness Exercise Dataset & HD Animation Library
 
-> **1,200+ structured exercise animations with JSON metadata for developers building fitness apps, workout platforms, AI fitness tools, and coaching systems.**
+> **1,500+ structured exercise animations with JSON metadata for developers building fitness apps, workout platforms, AI fitness tools, and coaching systems.**
 
 🌐 **Website:** [exercisedbpro.com](https://exercisedbpro.com)  
 📩 **Contact:** profilesleetcode@gmail.com  
@@ -13,7 +13,7 @@
 
 ExerciseDB Pro is a **production-ready, developer-first fitness dataset** containing:
 
-- **1,200+ exercise animations** (HD 1080px MP4 format, smooth looping)
+- **1,500+ exercise animations** (HD 1080px MP4 format, smooth looping)
 - **Structured JSON metadata** for every exercise (10 fields per entry)
 - **Commercial license** — use in your apps, SaaS, websites, and platforms
 - **No API dependency** — download once, host anywhere, lifetime access with no recurring costs or rate limits
@@ -24,7 +24,7 @@ It is the most comprehensive structured fitness exercise dataset available for d
 
 ## Live Demo & Animation Previews
 
-👉 **[exercisedbpro.com](https://exercisedbpro.com)** — Browse all 1,200+ exercise animations live, explore categories, and preview animation quality before purchasing.
+👉 **[exercisedbpro.com](https://exercisedbpro.com)** — Browse all 1,500+ exercise animations live, explore categories, and preview animation quality before purchasing.
 
 ---
 
@@ -71,40 +71,6 @@ Every exercise in ExerciseDB Pro includes **10 structured fields**:
   ]
 }
 ```
-
----
-
-## Included Collections
-
-### 🏋️ Gym Workout Collection — 400+ Exercises
-
-Covers all major muscle groups with multiple animation character styles:
-
-- Chest (bench press, flys, push-ups, cable crossovers)
-- Back (rows, pull-ups, lat pulldowns, deadlifts)
-- Shoulders (press, lateral raises, face pulls)
-- Arms (biceps curls, triceps extensions, hammer curls)
-- Legs (squats, lunges, leg press, hamstring curls)
-- Abs (crunches, planks, leg raises, cable crunches)
-- Cardio (jumping jacks, mountain climbers, burpees)
-- Compound lifts and isolation movements
-- Beginner through advanced difficulty levels
-
----
-
-### 🧘 Home & Lifestyle Collection — 800+ Exercises
-
-Specialized animation styles for every training environment:
-
-| Category | Description |
-|---|---|
-| **Home Workouts** | No-equipment bodyweight exercises |
-| **Yoga** | Traditional yoga poses and flows |
-| **Pilates** | Core, full body, lower body, upper body, warm-up, wall pilates |
-| **Office Workouts** | Chair, desk, back, and support exercises for workplace use |
-| **Women Workouts** | Arms, legs, hips, cardio, balance, stretch, wall, chair variations |
-| **Face Yoga** | Facial muscle exercises and neck routines |
-| **Mobility & Stretching** | Flexibility and recovery movements |
 
 ---
 
@@ -193,7 +159,7 @@ Yes. Your purchase includes a lifetime commercial license for use inside your ow
 Yes. The structured JSON schema with muscle targeting, difficulty, category, and instruction fields is designed to be LLM and ML-pipeline friendly.
 
 **Q: How many exercises are in the dataset?**  
-1,200+ exercises in the Complete Collection. 400+ gym exercises in the Gym Dataset.
+1,500+ exercises in the Complete Collection.
 
 ---
 
