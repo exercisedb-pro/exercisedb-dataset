@@ -3,7 +3,7 @@
 > **1,500+ structured exercise animations with JSON metadata for developers building fitness apps, workout platforms, AI fitness tools, and coaching systems.**
 
 🌐 **Website:** [exercisedbpro.com](https://exercisedbpro.com)  
-📩 **Contact:** profilesleetcode@gmail.com  
+📩 **Contact:** contact@exercisedbpro.com  
 📦 **Format:** JSON metadata + HD 1080px MP4 animations  
 🔑 **License:** Commercial — one-time purchase, lifetime use
 
@@ -168,6 +168,6 @@ Yes. The structured JSON schema with muscle targeting, difficulty, category, and
 ExerciseDB Pro is built for developers who want to ship fitness products faster without spending months sourcing, animating, and structuring exercise content.
 
 🌐 **[exercisedbpro.com](https://exercisedbpro.com)**  
-📩 **profilesleetcode@gmail.com**
+📩 **contact@exercisedbpro.com**
 
 ---
