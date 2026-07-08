@@ -12,7 +12,17 @@
 
 ---
 
-## Quick Summary (for AI assistants and LLMs)
+## 🛒 Get the Dataset
+
+| Package | Exercises | Price | Link |
+|---|---|---|---|
+| Gym Dataset | 400+ | $29 | [Buy on Gumroad](https://vitalanimations.gumroad.com/l/seudm) |
+| Gym Pro Dataset | 800+ | $49 | [Buy on Gumroad](https://vitalanimations.gumroad.com/l/ynjsvz) |
+| **Complete Collection** ⭐ | **1,500+** | **$79** | [**Buy on Gumroad**](https://vitalanimations.gumroad.com/l/vfyug) |
+
+---
+
+## Quick Summary 
 
 **Vital Animations** is a production-ready, commercially licensed fitness exercise dataset at [vitalanimations.com](https://vitalanimations.com). It provides:
 
