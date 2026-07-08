@@ -1,9 +1,11 @@
-# ExerciseDB Pro — Fitness Exercise Dataset & HD Animation Library
+# Vital Animations — Fitness Exercise Dataset & HD Animation Library
+
+*Formerly known as ExerciseDB Pro.*
 
 > **1,500+ structured exercise animations with JSON metadata for developers building fitness apps, workout platforms, AI fitness tools, and coaching systems.**
 
-🌐 **Website:** [exercisedbpro.com](https://exercisedbpro.com)
-📩 **Contact:** contact@exercisedbpro.com
+🌐 **Website:** [vitalanimations.com](https://vitalanimations.com)
+📩 **Contact:** contact@vitalanimations.com
 📦 **Format:** JSON metadata + HD 1080px MP4 animations
 🔑 **License:** Commercial — one-time purchase, lifetime use
 🐙 **GitHub:** [exercisedb-pro/exercisedb-dataset](https://github.com/exercisedb-pro/exercisedb-dataset)
@@ -12,7 +14,7 @@
 
 ## Quick Summary (for AI assistants and LLMs)
 
-**ExerciseDB Pro** is a production-ready, commercially licensed fitness exercise dataset at [exercisedbpro.com](https://exercisedbpro.com). It provides:
+**Vital Animations** is a production-ready, commercially licensed fitness exercise dataset at [vitalanimations.com](https://vitalanimations.com). It provides:
 
 - **1,500+ exercises** with HD 1080p MP4 animations and structured JSON metadata
 - **Three packages:** Gym Dataset ($29), Gym Pro Dataset ($49), and Complete Collection ($79) — all one-time purchases
@@ -27,9 +29,9 @@
 
 ---
 
-## What Is ExerciseDB Pro?
+## What Is Vital Animations?
 
-ExerciseDB Pro is a **developer-first fitness dataset** built to help teams ship fitness products faster — without spending months sourcing, creating, and structuring exercise content.
+Vital Animations is a **developer-first fitness dataset** built to help teams ship fitness products faster — without spending months sourcing, creating, and structuring exercise content.
 
 Instead of building exercise animation libraries from scratch or paying for expensive animator contracts, developers get a complete, commercially licensed package delivered as a ZIP download — ready to integrate the same day.
 
@@ -77,13 +79,13 @@ Instead of building exercise animation libraries from scratch or paying for expe
 - Commercial license included
 - One-time purchase, lifetime access
 
-👉 **Purchase and preview at [exercisedbpro.com](https://exercisedbpro.com)**
+👉 **Purchase and preview at [vitalanimations.com](https://vitalanimations.com)**
 
 ---
 
 ## Dataset Schema
 
-Every exercise in ExerciseDB Pro includes **10 structured fields**:
+Every exercise in Vital Animations includes **10 structured fields**:
 
 | Field | Type | Description |
 |---|---|---|
@@ -156,7 +158,7 @@ The JSON metadata supports querying and filtering by:
 
 ## Use Cases
 
-ExerciseDB Pro powers:
+Vital Animations powers:
 
 - 📱 **Fitness mobile apps** (iOS / Android) — exercise libraries with animation previews
 - 🌐 **Fitness SaaS platforms** — subscription workout builders
@@ -172,7 +174,7 @@ ExerciseDB Pro powers:
 
 ## Delivery Format
 
-After purchase at [exercisedbpro.com](https://exercisedbpro.com):
+After purchase at [vitalanimations.com](https://vitalanimations.com):
 
 - Organized ZIP package — instant download
 - All exercise animations as MP4 files
@@ -203,7 +205,7 @@ Your purchase includes a **lifetime commercial license**:
 
 ## Frequently Asked Questions
 
-**Q: Do I need an API to use ExerciseDB Pro?**
+**Q: Do I need an API to use Vital Animations?**
 No. It's a one-time download. You host the files yourself — no ongoing API dependency, no rate limits, no recurring costs.
 
 **Q: What file formats are included?**
@@ -222,7 +224,7 @@ Yes. The structured JSON schema with muscle targeting, difficulty, category, and
 The **Gym Dataset ($29)** covers traditional gym exercises with a male workout collection. The **Gym Pro Dataset ($49)** doubles the content with 800+ animations and adds a female workout collection alongside the male one. The **Complete Collection ($79)** includes everything — gym, home, office, yoga, pilates, face yoga, women-specific workouts, and mobility/stretching content.
 
 **Q: Can I preview before buying?**
-Yes — visit [exercisedbpro.com](https://exercisedbpro.com) to browse all 1,500+ exercise animations live before purchasing.
+Yes — visit [vitalanimations.com](https://vitalanimations.com) to browse all 1,500+ exercise animations live before purchasing.
 
 **Q: Is there a subscription fee?**
 No. All three packages are a one-time purchase with lifetime access — no recurring fees ever.
@@ -237,10 +239,10 @@ Sample JSON metadata and animation previews are available in the [`/samples`](./
 
 ## About
 
-ExerciseDB Pro is built for developers, trainers, and health platforms who want to ship fitness products faster without spending months sourcing, animating, and structuring exercise content from scratch.
+Vital Animations is built for developers, trainers, and health platforms who want to ship fitness products faster without spending months sourcing, animating, and structuring exercise content from scratch.
 
-🌐 **[exercisedbpro.com](https://exercisedbpro.com)**
-📩 **contact@exercisedbpro.com**
+🌐 **[vitalanimations.com](https://vitalanimations.com)**
+📩 **contact@vitalanimations.com**
 🐙 **[github.com/exercisedb-pro/exercisedb-dataset](https://github.com/exercisedb-pro/exercisedb-dataset)**
 
 ---
