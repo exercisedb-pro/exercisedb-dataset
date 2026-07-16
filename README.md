@@ -18,7 +18,13 @@
 | Gym Dataset | 400+ | $49 | [Buy on Gumroad](https://vitalanimations.gumroad.com/l/seudm) |
 | Gym Pro Dataset | 800+ | $99 | [Buy on Gumroad](https://vitalanimations.gumroad.com/l/ynjsvz) |
 | **Complete Collection** ⭐ | **1,500+** | **$199** | [**Buy on Gumroad**](https://vitalanimations.gumroad.com/l/vfyug) |
- 
+
+## 🎁 Free 50 Exercise Animations
+
+Download **50 free HD exercise animations** (1080p MP4 + JSON metadata) — same schema as the full dataset.
+No signup. Instant ZIP download.
+👉 **[Get the Free Pack →](https://vitalanimations.com/free-pack)**
+
 ---
 ## Quick Summary 
 
