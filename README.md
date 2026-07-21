@@ -1,6 +1,6 @@
 # Vital Animations — Fitness Exercise Dataset & HD Animation Library
 
-*Formerly known as ExerciseDB Pro.*
+⭐ If this repo helps you, please consider starring it — it really helps!
 
 > **1,500+ structured exercise animations with JSON metadata for developers building fitness apps, workout platforms, AI fitness tools, and coaching systems.**
 
@@ -258,6 +258,14 @@ Vital Animations is built for developers, trainers, and health platforms who wan
 🌐 **[vitalanimations.com](https://vitalanimations.com)**
 📩 **contact@vitalanimations.com**
 🐙 **[github.com/exercisedb-pro/exercisedb-dataset](https://github.com/exercisedb-pro/exercisedb-dataset)**
+
+---
+ 
+### ⭐ Found this useful?
+ 
+If this repo helped you, please consider giving it a star — it really helps! 🙏
+ 
+---
 
 ---
 
