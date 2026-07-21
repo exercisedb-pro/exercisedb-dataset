@@ -219,6 +219,9 @@ Your purchase includes a **lifetime commercial license**:
 
 ## Frequently Asked Questions
 
+**Q: Are some animations human and others 3D?**
+No. All Vital Animations are 3D animated — none are real human footage.
+
 **Q: Do I need an API to use Vital Animations?**
 No. It's a one-time download. You host the files yourself — no ongoing API dependency, no rate limits, no recurring costs.
 
