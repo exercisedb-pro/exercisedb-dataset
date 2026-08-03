@@ -19,11 +19,26 @@
 | Gym Pro Dataset | 800+ | $99 | [Buy on Gumroad](https://vitalanimations.gumroad.com/l/ynjsvz) |
 | **Complete Collection** ⭐ | **1,500+** | **$199** | [**Buy on Gumroad**](https://vitalanimations.gumroad.com/l/vfyug) |
 
-## 🎁 Free 50 Exercise Animations
+## 🎁 Free Exercise Animations for Developers
 
-Download **50 free HD exercise animations** (1080p MP4 + JSON metadata) — same schema as the full dataset.
-No signup. Instant ZIP download.
-👉 **[Get the Free Pack →](https://vitalanimations.com/free-pack)**
+**Free HD workout animations** for developers building fitness apps — no trial, no signup, no strings attached.
+
+A starter set of **HD 1080p exercise animations + structured JSON metadata**, using the same schema as the full Vital Animations dataset. Free to use in your own projects under the same commercial license terms as the paid packages.
+
+Useful for:
+- Fitness app prototypes and MVPs
+- Workout planners and exercise libraries
+- AI fitness / coaching demos
+- Small projects that just need a handful of solid exercise animations
+
+Includes:
+- HD MP4 exercise animations
+- JSON metadata (`exerciseId`, muscles, equipment, difficulty, instructions)
+- Instant ZIP download
+
+👉 **[Download Free Pack →](https://vitalanimations.com/free-pack)**
+
+Looking for more exercises or additional categories (yoga, pilates, office workouts)? The full collections are at [vitalanimations.com](https://vitalanimations.com).
 
 ---
 ## Quick Summary 
