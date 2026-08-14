@@ -11,13 +11,6 @@
 🐙 **GitHub:** [exercisedb-pro/exercisedb-dataset](https://github.com/exercisedb-pro/exercisedb-dataset)
 
 ---
-## 🛒 Get the Dataset
- 
-| Package | Exercises | Price | Link |
-|---|---|---|---|
-| Gym Dataset | 400+ | $49 | [Buy on Gumroad](https://vitalanimations.gumroad.com/l/seudm) |
-| Gym Pro Dataset | 800+ | $99 | [Buy on Gumroad](https://vitalanimations.gumroad.com/l/ynjsvz) |
-| **Complete Collection** ⭐ | **1,500+** | **$199** | [**Buy on Gumroad**](https://vitalanimations.gumroad.com/l/vfyug) |
 
 ## 🎁 Free Exercise Animations for Developers
 
