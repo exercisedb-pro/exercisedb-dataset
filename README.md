@@ -6,7 +6,6 @@
 
 🌐 **Website:** [vitalanimations.com](https://vitalanimations.com)
 📦 **Format:** JSON metadata + HD 1080px MP4 animations
----
 🔑 **License:** Commercial — one-time purchase, lifetime use
 🐙 **GitHub:** [exercisedb-pro/exercisedb-dataset](https://github.com/exercisedb-pro/exercisedb-dataset)
 
