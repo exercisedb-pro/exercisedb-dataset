@@ -5,8 +5,8 @@
 > **1,500+ structured exercise animations with JSON metadata for developers building fitness apps, workout platforms, AI fitness tools, and coaching systems.**
 
 🌐 **Website:** [vitalanimations.com](https://vitalanimations.com)
-📩 **Contact:** contact@vitalanimations.com
 📦 **Format:** JSON metadata + HD 1080px MP4 animations
+---
 🔑 **License:** Commercial — one-time purchase, lifetime use
 🐙 **GitHub:** [exercisedb-pro/exercisedb-dataset](https://github.com/exercisedb-pro/exercisedb-dataset)
 
@@ -267,7 +267,6 @@ Sample JSON metadata and animation previews are available in the [`/samples`](./
 Vital Animations is built for developers, trainers, and health platforms who want to ship fitness products faster without spending months sourcing, animating, and structuring exercise content from scratch.
 
 🌐 **[vitalanimations.com](https://vitalanimations.com)**
-📩 **contact@vitalanimations.com**
 🐙 **[github.com/exercisedb-pro/exercisedb-dataset](https://github.com/exercisedb-pro/exercisedb-dataset)**
 
 ---
