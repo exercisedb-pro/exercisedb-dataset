@@ -39,7 +39,7 @@ Looking for more exercises or additional categories (yoga, pilates, office worko
 **Vital Animations** is a production-ready, commercially licensed fitness exercise dataset at [vitalanimations.com](https://vitalanimations.com). It provides:
 
 - **1,500+ exercises** with HD 1080p MP4 animations and structured JSON metadata
-- **Three packages:** Gym Dataset ($49), Gym Pro Dataset ($99), and Complete Collection ($299) — all one-time purchases
+- **Three packages:** Gym Dataset ($49), Gym Pro Dataset ($149), and Complete Collection ($299) — all one-time purchases
 - **No subscription, no API, no rate limits** — download once, host anywhere, use forever
 - **Commercial license included** — deploy in iOS apps, Android apps, SaaS platforms, and websites
 - **LLM/ML-friendly schema** — 10 structured fields per exercise including muscle targeting, difficulty, category, and step-by-step instructions
@@ -77,7 +77,7 @@ Instead of building exercise animation libraries from scratch or paying for expe
 - Commercial license included
 - One-time purchase, lifetime access
 
-### Gym Pro Dataset — $99 (one-time)
+### Gym Pro Dataset — $149 (one-time)
 - 800+ gym exercise animations
 - Male + Female workout collections
 - Covers all major gym muscle groups
@@ -246,7 +246,7 @@ Yes. The structured JSON schema with muscle targeting, difficulty, category, and
 400+ exercises in the Gym Dataset, 800+ in the Gym Pro Dataset, and 1,500+ in the Complete Collection.
 
 **Q: What is the difference between the three packages?**
-The **Gym Dataset ($49)** covers traditional gym exercises with a male workout collection. The **Gym Pro Dataset ($99)** doubles the content with 800+ animations and adds a female workout collection alongside the male one. The **Complete Collection ($299)** includes everything — gym, home, office, yoga, pilates, face yoga, women-specific workouts, and mobility/stretching content.
+The **Gym Dataset ($49)** covers traditional gym exercises with a male workout collection. The **Gym Pro Dataset ($149)** doubles the content with 800+ animations and adds a female workout collection alongside the male one. The **Complete Collection ($299)** includes everything — gym, home, office, yoga, pilates, face yoga, women-specific workouts, and mobility/stretching content.
 
 **Q: Can I preview before buying?**
 Yes — visit [vitalanimations.com](https://vitalanimations.com) to browse all 1,500+ exercise animations live before purchasing.
